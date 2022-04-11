@@ -3,7 +3,7 @@ import datetime
 import time
 
 
-TOKEN = 'OTU4NDIwMTg1Mzk0NTk3OTM4.YkNEWg.GjJ7DL2l6gmOEWMj--XBMtvDGOc'  # Token from discord developement portal
+TOKEN = ''  # Token from discord developement portal
 
 client = discord.Client()
 STARTCOMMAND = '!SAT'
